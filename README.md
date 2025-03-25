@@ -5,7 +5,7 @@ This project is an **interactive temperature visualization dashboard** built usi
 ---
 
 ## **📌 Features**
-- **Interactive Day Slider**: Select a day (1 to 30) to view the temperature map.  
+- **Interactive Day Slider**: Select a day to view the temperature map.  
 - **Colormapped Heatmap**: Uses a smooth gradient from **blue (cold)** to **red (hot)** to visualize temperature variations.  
 - **Masked Regions**: Areas outside India are masked using a predefined `output.jpg` image.  
 - **Optimized for Performance**: Uses **nearest-neighbor interpolation** for fast rendering.  
